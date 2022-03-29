@@ -1,0 +1,8 @@
+.my_nav_bar {
+    position: sticky;
+    z-index: 99999;
+    top: 0}
+
+#vi {
+    padding-left: 210px;
+}
